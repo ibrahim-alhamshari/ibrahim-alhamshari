@@ -1,19 +1,33 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!--
-**ibrahim-alhamshari/ibrahim-alhamshari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ibrahim</h1>
+<h3 align="center">I'm a Full Stack Developer from Jordan</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently studying at **[LTUC College](https://asac.ltuc.com/)**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+- 📫 How to reach me: **IbrahimAlhamshari742@gmail.com**
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ⚡ Fun fact **I play games and go to the GYM very often.**
+
+
+
+
+
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -26,3 +40,6 @@ Here are some ideas to get you started:
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
