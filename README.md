@@ -10,14 +10,14 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with ...
 
-- 💬 Ask me about ...
+- 💬 Ask me about ... -->
 
 - 📫 How to reach me: **IbrahimAlhamshari742@gmail.com**
 
-- 😄 Pronouns: ...
-
+<!-- - 😄 Pronouns: ...
+ -->
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 
