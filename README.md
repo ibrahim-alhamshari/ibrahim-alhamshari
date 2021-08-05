@@ -1,4 +1,4 @@
-# Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ibrahim
+# Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Ibrahim
 ## <h3 align="center">I'm a Full Stack Developer from Jordan</h3>
 
 
