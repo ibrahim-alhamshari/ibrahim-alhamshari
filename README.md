@@ -1,6 +1,3 @@
-# Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Ibrahim
-
-
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently studying at **[LTUC College](https://asac.ltuc.com/)**
