@@ -1,4 +1,4 @@
-## <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ibrahim</h1>
+## Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ibrahim
 
 - 🔭 I’m currently studying at **[LTUC College](https://asac.ltuc.com/)**
 
